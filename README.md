@@ -33,3 +33,7 @@ const md = fetch("post/test.md").then((response) => response.text()).then(text =
 
 ![Imagen del resultado](/img/evi.png)
 
+## Documentacion de Scalar para probar
+
+[Scalar](https://github.com/scalar/scalar?tab=readme-ov-file#getting-started1 "Documentacion Scalar (GIT HUB)")
+
